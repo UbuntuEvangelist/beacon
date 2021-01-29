@@ -11,7 +11,7 @@ gem 'rolify', '3.2.0'
 gem 'simple_form', '2.1.0'
 gem 'omniauth','1.1.4'
 gem 'omniauth-facebook','1.4.1'
-gem 'omniauth-linkedin','0.1.0'
+gem 'omniauth-linkedin', '0.1.0'
 #This is needed to fix rupee symbol
 gem 'money',:git => 'git://github.com/m-narayan/money', :branch => 'beacon-deploy'
 gem 'delayed_job_active_record','0.4.4'
