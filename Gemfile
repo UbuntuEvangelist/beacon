@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.12'
-gem 'jquery-rails','2.2.1'
+gem 'rails', '4.0.0'
+gem 'jquery-rails', '2.2.1'
 gem 'figaro', '0.6.4'
 gem 'bootstrap-sass', '2.3.1.0'
-gem 'devise', '2.2.3'
+gem 'devise', '3.0.0'
 gem 'cancan', '1.6.9'
 #gem 'devise_cas_authenticatable',">=1.2.1"
 gem 'rolify', '3.2.0'
@@ -18,7 +18,7 @@ gem 'delayed_job_active_record','0.4.4'
 gem "payday",'1.1.0'
 gem 'omniauth-google-oauth2','0.1.17'
 gem 'oauth2','0.8.1'
-gem 'best_in_place', '2.1.0'
+gem 'best_in_place', '3.0.0'
 gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.6'
 gem 'faker', '1.0.1'
@@ -26,8 +26,8 @@ gem 'activemerchant','1.32.1'
 gem 'active_merchant_ccavenue','0.1.0'
 gem 'wicked_pdf', '0.9.6'
 group :assets do
-gem 'sass-rails', '3.2.6'
-gem 'coffee-rails', '3.2.2'
+gem 'sass-rails', '4.0.0'
+gem 'coffee-rails', '4.0.0'
 gem 'uglifier', '2.0.1'
 gem 'therubyracer', '0.11.4', :platforms => :ruby
 end
