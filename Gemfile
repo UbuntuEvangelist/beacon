@@ -22,8 +22,8 @@ gem 'best_in_place', '2.1.0'
 gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.6'
 gem 'faker', '1.0.1'
-gem 'activemerchant','1.32.1'
-gem 'active_merchant_ccavenue','0.1.0'
+gem 'activemerchant', '1.32.1'
+gem 'active_merchant_ccavenue', '0.1.0'
 gem 'wicked_pdf', '0.9.6'
 group :assets do
 gem 'sass-rails', '3.2.6'
@@ -43,7 +43,7 @@ group :development do
 end
 gem 'sqlite3', '1.3.7', :group => :development
 gem 'quiet_assets', '1.0.2', :group => :development
-gem 'better_errors', '0.8.0', :group => :development
+gem 'better_errors', '2.8.0', :group => :development
 gem 'binding_of_caller', '0.7.1', :group => :development, :platforms => [:mri_19, :rbx]
 gem 'hub', '1.10.6', :require => nil, :group => [:development]
 gem 'rspec-rails', '2.13.1', :group => [:development, :test]
