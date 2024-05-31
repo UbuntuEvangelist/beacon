@@ -22,7 +22,7 @@ gem 'best_in_place', '2.1.0'
 gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.6'
 gem 'faker', '1.0.1'
-gem 'activemerchant','1.32.1'
+gem 'activemerchant', '1.33.0'
 gem 'active_merchant_ccavenue','0.1.0'
 gem 'wicked_pdf', '0.9.6'
 group :assets do
